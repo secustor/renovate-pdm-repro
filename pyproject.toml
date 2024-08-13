@@ -46,7 +46,7 @@ test = [
     "pytest-html>=4.1.1",
 ]
 lint = [
-    "ruff==0.5.5",
+    "ruff==0.5.7",
 ]
 typecheck = [
     "mypy==1.11.1",
