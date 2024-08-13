@@ -12,7 +12,7 @@ dependencies = [
     "psutil==6.0.0",
     "aiofiles==24.1.0",
     "SQLAlchemy==2.0.31",
-    "fastapi==0.111.1",
+    "fastapi==0.112.0",
     "asyncpg==0.29.0",
     "greenlet==3.0.3",
     "aioboto3==13.1.1",
