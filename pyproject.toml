@@ -11,7 +11,7 @@ dependencies = [
     "pyctuator==1.2.0",
     "psutil==6.0.0",
     "aiofiles==24.1.0",
-    "SQLAlchemy==2.0.31",
+    "SQLAlchemy==2.0.32",
     "fastapi==0.111.1",
     "asyncpg==0.29.0",
     "greenlet==3.0.3",
