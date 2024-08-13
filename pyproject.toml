@@ -21,7 +21,7 @@ dependencies = [
     "pyyaml==6.0.1",
     "pydantic-settings==2.4.0",
     "blinker==1.8.2",
-    "ddtrace==2.10.1",
+    "ddtrace==2.10.4",
     "ordered-set==4.1.0",
     "beautifulsoup4==4.12.3",
     "aiokafka==0.11.0",
